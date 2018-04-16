@@ -1,5 +1,13 @@
 # Genesis Java Exam
 
+
+## How to run 
+
+* mvn clean install 
+* the application endpoint is in Application.java
+* unit tests are in test/java folder
+
+
 ## Purpose:
 
 * Evaluate Java knowledge and skills of a candidate and good programming practices

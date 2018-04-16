@@ -7,5 +7,5 @@ package com.genesis.exams.slot;
  *
  */
 public interface Spinner {
-    public Symbol spin(Reel reel);
+    Symbol spin(Reel reel);
 }
